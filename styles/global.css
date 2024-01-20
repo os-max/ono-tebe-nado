@@ -37,3 +37,10 @@ img {
 address {
   font-style: normal;
 }
+
+button {
+  background-color: transparent;
+  border: none;
+  color: inherit;
+  font: inherit;
+}
